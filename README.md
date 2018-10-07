@@ -22,7 +22,7 @@
 
 <body>
 	<header>
-		<h1 class="logo"> Philosophia Blog </h1>
+		<h1 class="logo"> Philosophia Blog nr 2</h1>
 		<nav id="topnav">
 			<ul class="menu">
 				<li>  <a href="#">Strona główna</a> </li>
